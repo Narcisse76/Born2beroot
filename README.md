@@ -30,16 +30,6 @@ Vérification des permissions, utilisateurs et configurations réseau
 
 Contrôle de la sécurité et des bonnes pratiques Linux
 
-### Il couvre :
-
-la gestion des utilisateurs et groupes
-
-la configuration et sécurisation des services réseau
-
-la surveillance et maintien d’un système stable
-
-la maîtrise des commandes Linux et scripts Bash
-
 ---
 
 ## 🧠 Ce qu’on y apprend
